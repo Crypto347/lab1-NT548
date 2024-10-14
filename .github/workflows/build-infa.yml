@@ -1,7 +1,7 @@
 name: "Terraform"
 on:
   push:
-    branches: ["dev"]
+    branches: ["main"]
     # paths:
     #   - "Terraform/modules/environments/staging/*"
 permissions: read-all
